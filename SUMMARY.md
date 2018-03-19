@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Inleiding](README.md)
+* [Computational thinking](chapter1.md)
+* [Digitale vaardigheden](digitale-vaardigheden.md)
+

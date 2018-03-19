@@ -1,3 +1,8 @@
-# My Awesome Book
+# Over digitale geletterdheid
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+De wereld verandert - in een steeds sneller tempo. Computers en robots spelen hierbij een grote rol: banen veranderen ingrijpend door de komst van computers, of verdwijnen helemaal. Voorbereiding op deze snel veranderende wereld vraagt onder meer om een goed begrip van computers - en van de manier waarop mens en computer kunnen samenwerken.
+
+
+
+![](/assets/Digitale Geletterdheid-v1.png)
+
