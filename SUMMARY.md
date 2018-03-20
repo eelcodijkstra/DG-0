@@ -4,4 +4,5 @@
 * [Computational thinking](chapter1.md)
 * [Digitale vaardigheden](digitale-vaardigheden.md)
 * [Materiaal](materiaal.md)
+* [Referenties](referenties.md)
 

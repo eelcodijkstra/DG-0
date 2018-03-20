@@ -4,6 +4,10 @@ Eén van de omschrijvingen van Computational thinking is:
 
 > _**computational thinking** is the thought processes involved in formulating a problem and expressing its solution\(s\) in such a way that a computer—human or machine—can effectively carry out._
 
+Een andere omschrijving, van de British Computer Society:
+
+> _Computational thinking skills are the set of mental skills that convert “complex, messy, partially defined, real world problems into a form that a mindless computer can tackle without further assistance from a human.” \(BCS, 2014, p. 3\)_
+
 Denkprocessen die een rol spelen bij Computational Thinking zijn onder meer: logisch redeneren, decompositie, abstractie, analyse,  patroonherkenning, generalisatie, formuleren als algoritme, ontwerpen van een vorm \(representatie\).
 
 Zie voor een uitgebreidere discussie, het Wikipedia artikel: [https://en.wikipedia.org/wiki/Computational\_thinking](https://en.wikipedia.org/wiki/Computational_thinking). Wij gaan hier niet verder in op deze discussie.
