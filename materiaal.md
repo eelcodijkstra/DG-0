@@ -10,5 +10,13 @@ Iedereen \(die geen leerling is\) kan gratis lid worden van CaS - ook vanuit Ned
 
 Website: [https:/computingatschool.org.uk](https:/computingatschool.org.uk)
 
+## Computational Thinking
 
+### Computing at School
+
+Computing at School: _Computational Thinking, A Guide for Teachers_. URL: [http://community.computingatschool.org.uk/resources/2324/single](http://community.computingatschool.org.uk/resources/2324/single) 
+
+### Google: Exploring computational thinking
+
+Website: [https://edu.google.com/resources/programs/exploring-computational-thinking/](https://edu.google.com/resources/programs/exploring-computational-thinking/)
 
